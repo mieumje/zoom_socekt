@@ -4,6 +4,9 @@
   "description": "Zoom Clone using NodeJS, WebRTC and Websocket",
   "license": "ISC",
   "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.5",
+    "@babel/node": "^7.20.5",
     "nodemon": "^2.0.20"
   }
 }
